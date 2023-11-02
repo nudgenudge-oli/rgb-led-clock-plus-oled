@@ -14,4 +14,4 @@
 ## Software
 
 - Arduino-IDE
-- Programm
+- Programm (wemosD1clock_4_oled.ino - Im Code sind noch hilfreiche Hinweise)
